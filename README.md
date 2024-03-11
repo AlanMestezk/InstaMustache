@@ -20,7 +20,7 @@ Este projeto foi concebido como uma forma de explorar e praticar as habilidades 
 ## Instalação
 
 1. Certifique-se de ter o Node.js e o Expo CLI instalados em sua máquina.
-2. Clone este repositório: `git clone https://github.com/seu-usuario/InstaMustache.git`
+2. Clone este repositório: `git clone https://github.com/AlanMestezk/InstaMustache.git`
 3. Instale as dependências do projeto: `npm install`
 4. Inicie o projeto: `npm start`
 
