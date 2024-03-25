@@ -1,4 +1,4 @@
-# InstaMustache
+# InstaMustache!
 
 InstaMustache é uma divertida paródia do famoso aplicativo Instagram, destacando suas funcionalidades básicas de uma maneira única. Desenvolvido com React Native e TypeScript, e aproveitando os recursos oferecidos pelo Expo, o projeto visa demonstrar minha progressão nos estudos de desenvolvimento de aplicativos móveis, tanto para Android quanto para iOS.
 
